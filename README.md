@@ -16,7 +16,7 @@ I am currently seeking software engineering opportunities in Kaohsiung, Taiwan.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=unclehank5255&show_icons=true&theme=radical)
 
 ---
-![unclehank5255's GitHub stats](https://github-readme-stats.vercel.app/api?username=unclehank5255&show_icons=true&theme=radical)
+
 ### 📫 如何聯絡我
 ![Pixel Cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHprbm52cW45d3doampyYnhsMmlsNXptNWVlaDNmc29hcHVieWpuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsZwsU65E0qcok8/giphy.gif)
 
