@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 我是 unclehank5255
 
-<!--
-**unclehank5255/unclehank5255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50)
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure,react,vue,flutter&perline=6" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=unclehank5255&show_icons=true&theme=radical)
+
+---
+
+### 📫 如何聯絡我
+- 🔭 我目前正在學習 C#,Golang,Python,git,SQL
+- 💬 不可以問我關於 **Kubernetes** 或 **Cloud** 的問題
