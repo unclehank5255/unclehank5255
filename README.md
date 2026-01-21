@@ -18,11 +18,7 @@ I am currently seeking software engineering opportunities in Kaohsiung, Taiwan.
 ---
 
 ### 📫 如何聯絡我
-<p align="center">
-  <img src="https://github-readme-pets.vercel.app/?pet=cat&variant=1" height="120px" alt="Pet Cat">
-  <br>
-  <i>這隻小貓會在這裡陪你寫 Code 升等！</i>
-</p>
+[![Typing Cat](https://typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7BB0E&width=435&lines=Meow+Meow+...;Coding+with+Love...)](https://git.io/typing-svg)
 -mail:hankwang0129@gmail.com
 - 🔭 我目前正在學習 C#,Golang,Python,git,SQL
 - 💬 不可以問我關於 **Kubernetes** 或 **Cloud** 的問題
