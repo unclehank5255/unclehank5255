@@ -18,6 +18,8 @@ I am currently seeking software engineering opportunities in Kaohsiung, Taiwan.
 ---
 
 ### 📫 如何聯絡我
+-mail:hankwang0129@gmail.com
 - 🔭 我目前正在學習 C#,Golang,Python,git,SQL
 - 💬 不可以問我關於 **Kubernetes** 或 **Cloud** 的問題
-- Have a nice day hahahaha
+
+## Have a nice day hahahaha
