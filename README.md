@@ -1,4 +1,6 @@
-# Hi there 👋 我是 unclehank5255
+# Hi there ,I  am Hankwang.
+I am currently seeking software engineering opportunities in Kaohsiung, Taiwan.
+
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50)
 
@@ -18,3 +20,4 @@
 ### 📫 如何聯絡我
 - 🔭 我目前正在學習 C#,Golang,Python,git,SQL
 - 💬 不可以問我關於 **Kubernetes** 或 **Cloud** 的問題
+- Have a nice day hahahaha
